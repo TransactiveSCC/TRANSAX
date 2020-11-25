@@ -1,0 +1,16 @@
+code/PhaseII/components/cplex/*
+*__pycache__
+docs/**/*.aux
+docs/**/*.bbl
+docs/**/*.blg
+docs/**/*.log
+docs/**/*.out
+*.out
+*.pyc
+*.json
+*.log
+*.abi
+*.bin*
+*.evm
+*.ast
+.ipynb_checkpoints
